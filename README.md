@@ -1,16 +1,47 @@
-# envia_com
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.elonce.oncenoticias&hl=es">
+    <img src="https://s3.us-east-2.amazonaws.com/enviapaqueteria/uploads/landing/images/countries/MEX/logo-dark.svg" height="150px">
+  </a>
+</p>
 
-Proyecto Mobile para operaciones de almacen dentro del grupo F.H
+<br>
 
-## Getting Started
+<h1 align="start"> Envia.com </h1>
 
-This project is a starting point for a Flutter application.
+Test to enter the company.
 
-A few resources to get you started if this is your first Flutter project:
+A simple application that simulates an e-commerce application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Documentation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To clone and execute this application, you will need 
+- [Git] (https://git-scm.com/download/win)
+- [Flutter] (https://docs.flutter.dev/get-started/install/windows) 
+
+Must be installed on your computer. 
+
+- From the command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Br0w3r/envia_com
+
+# Go into the repository
+$ cd envia_com
+
+# Install dependencies
+$ flutter pub get
+
+# Run the app in production mode
+$ flutter run --release --notreeshakeicons
+```
+
+## Contributors ✨
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="50%"><a href="https://github.com/Br0w3r"><img src="https://avatars.githubusercontent.com/u/139900682?v=4" width="100px;" alt="Br0w3r"/><br /><sub><b>Br0w3r</b></sub></a><br /><a href="https://github.com/Kokiz404/once-noticias/commits?author=Br0w3r" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
